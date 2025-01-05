@@ -1,4 +1,3 @@
-# CryptoLock
 # CryptoLock: Secure File Encryption and Logging
 
 ## Overview
