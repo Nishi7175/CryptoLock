@@ -1,0 +1,26 @@
+2025-01-05 15:24:59,543 - INFO - Starting CryptoLock...
+2025-01-05 15:24:59,544 - INFO - Created file: crypto_lock\files\file_0.txt
+2025-01-05 15:24:59,544 - INFO - Created file: crypto_lock\files\file_1.json
+2025-01-05 15:24:59,544 - INFO - Created file: crypto_lock\files\file_2.yaml
+2025-01-05 15:24:59,545 - INFO - Created file: crypto_lock\files\file_3.txt
+2025-01-05 15:24:59,545 - INFO - Created file: crypto_lock\files\file_4.json
+2025-01-05 15:24:59,546 - INFO - Generated symmetric key.
+2025-01-05 15:24:59,573 - INFO - Encrypted file: crypto_lock\files\file_0.txt -> crypto_lock\encrypted\file_0_encrypted.txt
+2025-01-05 15:24:59,578 - INFO - Encrypted file: crypto_lock\files\file_1.json -> crypto_lock\encrypted\file_1_encrypted.json
+2025-01-05 15:24:59,584 - INFO - Encrypted file: crypto_lock\files\file_2.yaml -> crypto_lock\encrypted\file_2_encrypted.yaml
+2025-01-05 15:24:59,589 - INFO - Encrypted file: crypto_lock\files\file_3.txt -> crypto_lock\encrypted\file_3_encrypted.txt
+2025-01-05 15:24:59,594 - INFO - Encrypted file: crypto_lock\files\file_4.json -> crypto_lock\encrypted\file_4_encrypted.json
+2025-01-05 15:24:59,594 - INFO - Demo completed.
+2025-01-05 15:25:36,313 - INFO - Starting CryptoLock...
+2025-01-05 15:25:36,313 - INFO - Created file: crypto_lock\files\file_0.txt
+2025-01-05 15:25:36,314 - INFO - Created file: crypto_lock\files\file_1.json
+2025-01-05 15:25:36,314 - INFO - Created file: crypto_lock\files\file_2.yaml
+2025-01-05 15:25:36,314 - INFO - Created file: crypto_lock\files\file_3.txt
+2025-01-05 15:25:36,315 - INFO - Created file: crypto_lock\files\file_4.json
+2025-01-05 15:25:36,315 - INFO - Generated symmetric key.
+2025-01-05 15:25:36,324 - INFO - Encrypted file: crypto_lock\files\file_0.txt -> crypto_lock\encrypted\file_0_encrypted.txt
+2025-01-05 15:25:36,329 - INFO - Encrypted file: crypto_lock\files\file_1.json -> crypto_lock\encrypted\file_1_encrypted.json
+2025-01-05 15:25:36,334 - INFO - Encrypted file: crypto_lock\files\file_2.yaml -> crypto_lock\encrypted\file_2_encrypted.yaml
+2025-01-05 15:25:36,339 - INFO - Encrypted file: crypto_lock\files\file_3.txt -> crypto_lock\encrypted\file_3_encrypted.txt
+2025-01-05 15:25:36,344 - INFO - Encrypted file: crypto_lock\files\file_4.json -> crypto_lock\encrypted\file_4_encrypted.json
+2025-01-05 15:25:36,344 - INFO - Demo completed.
